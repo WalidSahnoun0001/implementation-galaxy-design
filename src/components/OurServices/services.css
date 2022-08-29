@@ -1,0 +1,45 @@
+.services {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    width: 70%;
+    margin: 0 auto;
+
+    padding: 50px 0;
+}
+.services .service {
+    text-align: center;
+    width: 310px;
+    margin: 20px;
+}
+.services .service span {
+    margin-bottom: 20px;
+}
+.services .service span i {
+    background-color: #FB7054;
+    color: #fff;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.services .service h3 {
+    color: #333;
+    margin: 20px 0 10px 0;
+}
+.services .service p {
+    width: 70%;
+    margin: 0 auto;
+    color: #666;
+}
+.wisdom {
+    padding: 50px 0;
+}
+.wisdom p {
+    color: #FB7054;
+    font-size: 30px;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}

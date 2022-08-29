@@ -1,0 +1,35 @@
+.blog-sh {
+    padding: 50px 0;
+    background-color: #eee;
+}
+.blog-sh h2 {
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.blog-sh .blog-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.blog-sh .blog {
+    width: 495px;
+    margin: 20px;
+}
+.blog-sh .blog figure img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+}
+.blog-sh .blog figure figcaption {
+    color: #FB7054;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.blog-sh .blog p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+}

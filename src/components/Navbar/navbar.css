@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 70%;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+header h2 img {
+    width: 150px;
+}
+header a {
+    text-decoration: none;
+    color: #333;
+}
+header a:hover {
+    color: #FB7054;
+}

@@ -1,0 +1,22 @@
+footer {
+    background-color: #292C36;
+}
+footer .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+footer h2 img {
+    width: 200px;
+}
+footer .social-media a i {
+    color: #fff;
+    margin: 20px;
+}
+footer .social-media a i:hover {
+    color: #FB7054;
+}
